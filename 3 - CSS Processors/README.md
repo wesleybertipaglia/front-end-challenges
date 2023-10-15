@@ -19,7 +19,7 @@ The primary objectives of these challenges are to:
 - **Example**: Each challenge directory includes example files that demonstrate a solution using the CSS preprocessor. These examples serve as references and starting points for your own solutions.
 
 ## CSS Processors
-We'll explore challenges using a CSS preprocessor of your choice, we recommend one of this list:W
+We'll explore challenges using a CSS preprocessor of your choice, we recommend one of this list:
 
 1. **SASS**: SASS is a widely-used CSS preprocessor that introduces variables, nesting, and mixins, making it easier to write and maintain CSS.
 
