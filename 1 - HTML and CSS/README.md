@@ -1,20 +1,38 @@
 # HTML and CSS Challenges
 Welcome to the HTML and CSS challenges folder! Here you will find a collection of challenges specifically focused on HTML and CSS, allowing you to enhance your skills in web layout and styling.
 
-## Objective
-The objective of this folder is to provide you with challenges that will help you improve your understanding and proficiency in HTML and CSS. By solving these challenges, you will gain hands-on experience in creating well-structured HTML documents and applying CSS styles to create visually appealing web pages.
+## Objectives
+The primary objectives of these challenges are to:
 
-## How It Works
-Each challenge within this folder is organized into its own subfolder, containing a README.md file with a detailed description of the challenge, requirements, and instructions. Additionally, you will find any necessary assets, such as images or CSS files, in their respective challenge folders.
+- Master the essentials of HTML markup and structure.
+- Gain proficiency in styling web pages using CSS.
+- Learn how to create visually appealing, responsive web designs.
+- Practice building well-structured, semantically meaningful web pages.
+
+## Features
+- **Challenge Descriptions**: Each challenge directory contains a detailed description of the challenge, including the problem statement, objectives, and any specific requirements.
+
+- **Resources Links**: We provide useful links to external resources, documentation, or tutorials related to the topics covered in each challenge. These resources can help you learn and solve the challenges more effectively.
+
+- **Inspiring Prototype**: You will find an inspiring prototype for each challenge. This prototype showcases a working example of what you're expected to build. Study the prototype to get a clear understanding of the challenge's end goal.
+
+- **Example**: In each challenge directory, you'll also find example files that demonstrate one possible solution to the challenge. These examples can serve as references to help you get started on your own solution.
+
+## Challenge Directory Structure
+Each challenge is organized as follows:
+
+- `README.md`: Detailed challenge description and objectives.
+- `prototype.png`: An image showcasing the inspiring prototype.
+- `example/`: Directory containing example files and solutions.
 
 ## To participate in a challenge:
 1. Open the challenge folder you want to tackle.
-2. Read the challenge description and requirements in the README.md file.
-3. Create a new HTML file and CSS file in the challenge folder to work on your solution.
-4. Implement your solution by writing HTML and CSS code based on the challenge specifications.
-5. Test your solution in a web browser to ensure it meets the desired outcome.
+2. Check the `resources.md` file for links to helpful resources.
+3. Study the `prototype.png` to see what you're building.
+4. Create a new folder called `solution/` to work on your solution.
+5. Implement and test your solution to ensure it meets the desired outcome.
 
-> Optionally, add a solution folder within the challenge folder to showcase your completed solution.
+> Optionally, you can check the `example/` to get inspired.
 
 Feel free to explore the challenges in this folder at your own pace, starting with those that align with your current skill level or interests.
 
