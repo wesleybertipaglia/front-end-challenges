@@ -27,7 +27,7 @@ Each challenge is organized as follows:
 
 ## To participate in a challenge:
 1. Open the challenge folder you want to tackle.
-2. Check the `resources.md` file for links to helpful resources.
+2. Read the challenge's `README.md` to understand the requirements and objectives.
 3. Study the `prototype.png` to see what you're building.
 4. Create a new folder called `solution/` to work on your solution.
 5. Implement and test your solution to ensure it meets the desired outcome.
