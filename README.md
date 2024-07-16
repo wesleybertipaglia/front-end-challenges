@@ -18,20 +18,9 @@ Feel free to explore challenges across different technologies, choosing the ones
 > If you are a begginer starts with [HTML and CSS](./HTML%20and%20CSS/) challenges.
 
 ## Contributing
-Contributions to this repository are highly encouraged! If you have a new challenge to propose or wish to enhance existing challenges, follow these steps:
 
-1. Fork the repository.
-2. Create a new branch for your modifications or new challenge.
-3. Implement your changes or add the new challenge, ensuring you provide a clear and concise
-4. Description of the modifications made.
-5. Submit a pull request, and your contribution will be reviewed by the repository maintainers.
-
-## Join the Community
-Engage with a vibrant community of front-end developers by participating in discussions, sharing ideas, and collaborating on open challenges. The repository's issue tracker is the perfect place to ask questions, provide feedback, or suggest improvements.
-
-[Join on Discord](https://discord.gg/MfxzPJeb)
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## License
-This repository is licensed under the MIT License. You are free to use the challenges, contribute to the repository, and adapt the content to suit your needs.
-## Enjoy
-Start exploring the Front-End Challenges Repository today and embark on a journey of growth and mastery in front-end development!
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
